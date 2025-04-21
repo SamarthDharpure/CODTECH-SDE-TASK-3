@@ -87,6 +87,6 @@ To contribute:
 
 ## 📸 OUTPUT
 
-![Image](https://github.com/user-attachments/assets/8dac2766-4bec-49c9-a8b4-1451a3489f0f)
+![Image](https://github.com/user-attachments/assets/1096fbb8-a3a9-4abd-b174-7dd3a7e05e6c)
 
 > Designed with ⚡ by **Samarth Dharpure**
